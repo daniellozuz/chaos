@@ -1,0 +1,5 @@
+Date, Ppl, Images, Time, Machine, Accuracy, Notes
+23.11.18, 1, 30, 45 min, Local, 0.9387, First versions showing any promise
+24.11.18, 1, 30, 2h, Cloud, 0.9186, Took longer than on Local Machine - not working
+24.11.18, 10, 900, 1h, Local, 0.9196, Trained on 7/10 ppl - not working at all ;/
+25.11.18, 1, 96, 20 min, Local, 0.9212, Tested on training data
